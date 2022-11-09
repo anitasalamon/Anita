@@ -32,8 +32,8 @@ title: Anita's CV
 
 ## Courses
 - [Three-days workshop on single cell RNA-seq analysis in CLI and R, hosted by Bioinformatics Core at UC Davis (2022)](https://github.com/ucdavis-bioinformatics-training/2022-March-Single-Cell-RNA-Seq-Analysis)
-- 
-- Two-days’ workshop on RNAseq analysis in CLI and R hosted by Bioinformatics Core at UVA 
+- Advanced Topics in Single Cell RNA Seq VDJ, hosted by Bioinformatics Core at UC Davis (2022)](https://github.com/ucdavis-bioinformatics-training/2022-March-Advanced-Topics-in-Single-Cell-RNA-Seq-VDJ)
+- [Two-days’ workshop on RNAseq analysis in CLI and R hosted by Bioinformatics Core at UVA](https://github.com/pk7zuva/rnaseq-workshop)
 
 
 
