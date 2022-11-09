@@ -21,7 +21,7 @@ title: Anita's CV
 
 - **Email:** as3gd@virginia.edu
 - **Email:** anitsalamon@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/anita-salamon/
+- **LinkedIn:** [@anita-salamon](https://www.linkedin.com/in/anita-salamon/)
 - **Twitter:** [@Anita_Salamon_](https://twitter.com/Anita_Salamon_)
 
 ## Posters
