@@ -32,8 +32,12 @@ title: Anita's CV
 
 ## Courses
 - [Three-days workshop on single cell RNA-seq analysis in CLI and R, hosted by Bioinformatics Core at UC Davis (2022)](https://github.com/ucdavis-bioinformatics-training/2022-March-Single-Cell-RNA-Seq-Analysis)
-- Advanced Topics in Single Cell RNA Seq VDJ, hosted by Bioinformatics Core at UC Davis (2022)](https://github.com/ucdavis-bioinformatics-training/2022-March-Advanced-Topics-in-Single-Cell-RNA-Seq-VDJ)
+- [Advanced Topics in Single Cell RNA Seq VDJ, hosted by Bioinformatics Core at UC Davis (2022)](https://github.com/ucdavis-bioinformatics-training/2022-March-Advanced-Topics-in-Single-Cell-RNA-Seq-VDJ)
 - [Two-days’ workshop on RNAseq analysis in CLI and R hosted by Bioinformatics Core at UVA](https://github.com/pk7zuva/rnaseq-workshop)
+- [HSL Research & Data Workshops: Data Visualization in R with ggplot2, regression in R, Data Preparation: taming wild data with R at UVA](https://guides.hsl.virginia.edu/data/workshops)
+- [PhD relevant courses: BIOC 8145: Bioinformatics and Functional Analysis of Genomes, BIOC8380 Practical Biomedical Statistics I and II in R, PHYS 8040: Physiology A and B, PHY8052: Vascular Biology A and B](https://med.virginia.edu/bims/bims-courses/bims-modules/)
+
+
 
 
 
