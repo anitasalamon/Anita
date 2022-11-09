@@ -26,6 +26,5 @@ Anita is a Biochemistry PhD Candidate. She is fascinated by single-cell genomics
 - **Twitter:** [@Anita_Salamon_](https://twitter.com/Anita_Salamon_)
 
 ## Posters
-![pdf]
-(/posters/20211014AS_Poster_CSHL.pdf)
+[Investigating the role of glutamine metabolism in atheroslerotic plaque stability](20211014AS_Poster_CSHL.pdf)
 (Cold Spring Harbor meeting: Mechanisms of Metabolic Signaling, 2021)
