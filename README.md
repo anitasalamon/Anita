@@ -26,5 +26,6 @@ Anita is a Biochemistry PhD Candidate. She is fascinated by single-cell genomics
 -[Investigating the role of glutamine metabolism in atheroslerotic plaque stability](20211014AS_Poster_CSHL.pdf)
 (Cold Spring Harbor meeting: Mechanisms of Metabolic Signaling, 2021)
 
--[Glutamine metabolism is required for phenotypic modulation of smooth muscle to a myofibroblast-like extracellular matrix-producing state](20201105AS_Poster_SFRBM.pdf)
+-[Glutamine metabolism is required for phenotypic modulation of smooth muscle to a myofibroblast-like extracellular matrix-producing state](20201105AS_Poster_SFRBM.pdf) (Society for Redox Biology and Medicine, 2020)
+
 
