@@ -31,6 +31,9 @@ title: Anita's CV
 -[Glutamine metabolism is required for phenotypic modulation of smooth muscle to a myofibroblast-like extracellular matrix-producing state](20201105AS_Poster_SFRBM.pdf) (Society for Redox Biology and Medicine, 2020)
 
 ## Courses
+- [Three-days workshop on single cell RNA-seq analysis in CLI and R, hosted by Bioinformatics Core at UC Davis (2022)](https://github.com/ucdavis-bioinformatics-training/2022-March-Single-Cell-RNA-Seq-Analysis)
+- 
+- Two-days’ workshop on RNAseq analysis in CLI and R hosted by Bioinformatics Core at UVA 
 
 
 
