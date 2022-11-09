@@ -26,6 +26,6 @@ Anita is a Biochemistry PhD Candidate. She is fascinated by single-cell genomics
 - **Twitter:** [@Anita_Salamon_](https://twitter.com/Anita_Salamon_)
 
 ## Posters
-[Investigating the role of smooth muscle glutamine metabolism in atherosclerotic plaque stability]
-(https://github.com/anitasalamon/Anita/blob/a986471f2bcd8acda543239105578ed31ed6b584/posters/20211014AS_Poster_CSHL.pdf)
+![pdf]
+(/posters/20211014AS_Poster_CSHL.pdf)
 (Cold Spring Harbor meeting: Mechanisms of Metabolic Signaling, 2021)
