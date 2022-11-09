@@ -3,7 +3,7 @@ title: Anita's CV
 ---
 
 <p align="center">
-<img src="figure/AS_bio.png" width="300" />
+<img src="figure/AS_bio.png" width="600" />
 </p>
 
 Anita is a Biochemistry PhD Candidate. She is fascinated by single-cell genomics and she is using it to study metabolism in cardiovascular diseases. She is currently analyzing single cell and bulk RNA seq datasets at University of Virginia, with Dr. Gary Owens group in Cardiovascular Research Center, co-mentored by Stefan Bekiranov and Vlad Serbulea. 
@@ -22,5 +22,8 @@ Anita is a Biochemistry PhD Candidate. She is fascinated by single-cell genomics
 
 - **Email:** as3gd@virginia.edu
 - **Email:** anitsalamon@gmail.com
-- **LinkedIn:** [https://www.linkedin.com/in/anita-salamon/)
-- **Twitter:** @Anita_Salamon_
+- **LinkedIn:** https://www.linkedin.com/in/anita-salamon/
+- **Twitter:** [@Anita_Salamon_](https://twitter.com/Anita_Salamon_)
+
+## Posters
+[Investigating the role of smooth muscle glutamine metabolism in atherosclerotic plaque stability](20211014AS Poster - CSHL.pdf) (Cold Spring Harbor meeting: Mechanisms of Metabolic Signaling, 2021)
