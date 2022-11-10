@@ -36,14 +36,12 @@
 ### Bioinformatics / statistics
 
 
-- Deep experience with software tools for next-generation high-throughput DNA
-sequencing data, including:
+- Deep experience with software tools for next-generation high-throughput sequencing data, including:
   * preprocessing 
     [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
     [MultiQC](https://multiqc.info/docs/)
     [Cutadapt](https://cutadapt.readthedocs.io/en/stable/guide.html)
     [Trimmomatic](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf)
-
   * sequence alignment (e.g.
     [STAR](https://physiology.med.cornell.edu/faculty/skrabanek/lab/angsd/lecture_notes/STARmanual.pdf),
     [CellRanger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)
@@ -52,6 +50,11 @@ sequencing data, including:
     [featureCounts](https://subread.sourceforge.net/SubreadUsersGuide.pdf)
     [SAMtools](http://samtools.sourceforge.net),
     [bedtools](https://bedtools.readthedocs.io/en/latest/), etc.)
+-	Deep experience in programming with R for bioinformatics and statistics 
+  * [DESeq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
+  * [Seurat](https://github.com/satijalab/seurat)
+  * [dplyr](https://cran.r-project.org/web/packages/dplyr/dplyr.pdf)
+  * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
 
 ## Publications
 A new autosomal Myh11-CreERT2 smooth muscle cell lineage tracing and gene knockout mouse model (Arteriosclerosis, Thrombosis, and Vascular Biology, 2022) [manuscript in review]
