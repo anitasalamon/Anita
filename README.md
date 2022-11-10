@@ -35,6 +35,7 @@
 ## Experience 
 ### Bioinformatics / statistics
 
+
 - Deep experience with software tools for next-generation high-throughput DNA
 sequencing data, including:
   * sequence alignment (e.g.
