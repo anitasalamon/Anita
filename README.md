@@ -32,11 +32,11 @@
 - **2019-2021:** Ph.D. Biochemistry and Molecular Genetics - Universit of Virginia  
 
 ## Publications
-[Multiple cell types contribute to the atherosclerotic lesion fibrous cap by PDGFRβ and bioenergetic mechanisms](https://www.nature.com/articles/s42255-020-00338-8) (Nature Metabolism, 2021)
+A new autosomal Myh11-CreERT2 smooth muscle cell lineage tracing and gene knockout mouse model (Arteriosclerosis, Thrombosis, and Vascular Biology, 2022) [manuscript in review]
 
 [Smooth muscle cell FTO regulates contractile function](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00427.2022) (Vascular Biology and Microcirculation, 2022)
 
-A new autosomal Myh11-CreERT2 smooth muscle cell lineage tracing and gene knockout mouse model (Arteriosclerosis, Thrombosis, and Vascular Biology, 2022) [manuscript in review]
+[Multiple cell types contribute to the atherosclerotic lesion fibrous cap by PDGFRβ and bioenergetic mechanisms](https://www.nature.com/articles/s42255-020-00338-8) (Nature Metabolism, 2021)
 
 [Topoisomerase II contributes to DNA secondary structure-mediated double-stranded breaks](https://academic.oup.com/nar/article/48/12/6654/5851738) (Nucleic Acids Research, 2020)
 
