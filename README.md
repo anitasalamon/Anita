@@ -32,6 +32,7 @@
 - **2019-2021:** Ph.D. Biochemistry and Molecular Genetics - Universit of Virginia  
 
 ## Publications
+[Multiple cell types contribute to the atherosclerotic lesion fibrous cap by PDGFRβ and bioenergetic mechanisms](https://www.nature.com/articles/s42255-020-00338-8) (Nature Metabolism, 2021)
 
 
 ## Posters
