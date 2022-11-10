@@ -38,10 +38,18 @@
 
 - Deep experience with software tools for next-generation high-throughput DNA
 sequencing data, including:
+  * preprocessing 
+    [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+    [MultiQC](https://multiqc.info/docs/)
+    [Cutadapt](https://cutadapt.readthedocs.io/en/stable/guide.html)
+    [Trimmomatic](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf)
+
   * sequence alignment (e.g.
-    [BWA](http://bio-bwa.sourceforge.net),
+    [STAR](https://physiology.med.cornell.edu/faculty/skrabanek/lab/angsd/lecture_notes/STARmanual.pdf),
+    [CellRanger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)
     [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml), etc.)
   * post-alignment analysis (e.g.
+    [featureCounts](https://subread.sourceforge.net/SubreadUsersGuide.pdf)
     [SAMtools](http://samtools.sourceforge.net),
     [bedtools](https://bedtools.readthedocs.io/en/latest/), etc.)
 
