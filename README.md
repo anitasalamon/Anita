@@ -5,7 +5,7 @@
 <p align="center">
 <img src="figure/AS_bio2.png" width="600" />
 </p>
-<h2 align="center">Anita is a Biochemistry PhD Candidate. She is fascinated by single-cell genomics and she is using it to study metabolism in cardiovascular diseases. She is currently analyzing single cell and bulk RNA seq datasets at University of Virginia, with Dr. Gary Owens group in Cardiovascular Research Center, co-mentored by Stefan Bekiranov and Vlad Serbulea. </h2>
+<h2 align="center">Anita is a Biochemistry PhD Candidate. She is fascinated by single-cell genomics and she is using it to study metabolism in cardiovascular diseases. She is currently analyzing single cell and bulk RNA seq datasets with Dr. Gary Owens group in Cardiovascular Research Center at University of Virginia School of Medicine, co-mentored by Stefan Bekiranov and Vlad Serbulea. </h2>
 
 
 ### Contents
