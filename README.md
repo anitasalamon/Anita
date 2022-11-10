@@ -34,8 +34,6 @@
 
 ## Experience 
 ### Bioinformatics / statistics
-
-
 - Deep experience with software tools for next-generation high-throughput sequencing data, including:
   * preprocessing 
     [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
@@ -81,7 +79,6 @@ A new autosomal Myh11-CreERT2 smooth muscle cell lineage tracing and gene knocko
 - [PhD relevant courses: BIOC 8145: Bioinformatics and Functional Analysis of Genomes, BIOC8380 Practical Biomedical Statistics I and II in R, PHYS 8040: Physiology A and B, PHY8052: Vascular Biology A and B](https://med.virginia.edu/bims/bims-courses/bims-modules/)
 
 ## Organizations
-
 - Leducq Foundation
 - American Heart Association (AHA)
 - Society for Redox Biology and Medicine's (SfRBM) 
