@@ -24,7 +24,7 @@
 - **LinkedIn:** [@anita-salamon](https://www.linkedin.com/in/anita-salamon/)
 - **Twitter:** [@Anita_Salamon_](https://twitter.com/Anita_Salamon_)
 
-## Experience 
+## Education
 
 - **2012-2015:** B.S. Biotechnology, University of Lodz
 - **2015-2019:** MSc. Medical Biotechnology, University of Lodz
