@@ -50,11 +50,11 @@
     [featureCounts](https://subread.sourceforge.net/SubreadUsersGuide.pdf)
     [SAMtools](http://samtools.sourceforge.net),
     [bedtools](https://bedtools.readthedocs.io/en/latest/), etc.)
--	Deep experience in programming with R for bioinformatics and statistics 
-  * [DESeq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
-  * [Seurat](https://github.com/satijalab/seurat)
-  * [dplyr](https://cran.r-project.org/web/packages/dplyr/dplyr.pdf)
-  * [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
+-	Deep experience in programming with R for bioinformatics and statistics , including: 
+    [DESeq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
+    [Seurat](https://github.com/satijalab/seurat)
+    [dplyr](https://cran.r-project.org/web/packages/dplyr/dplyr.pdf)
+    [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
 
 ## Publications
 A new autosomal Myh11-CreERT2 smooth muscle cell lineage tracing and gene knockout mouse model (Arteriosclerosis, Thrombosis, and Vascular Biology, 2022) [manuscript in review]
