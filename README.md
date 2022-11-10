@@ -34,6 +34,8 @@
 ## Publications
 [Multiple cell types contribute to the atherosclerotic lesion fibrous cap by PDGFRβ and bioenergetic mechanisms](https://www.nature.com/articles/s42255-020-00338-8) (Nature Metabolism, 2021)
 
+[Smooth muscle cell FTO regulates contractile function](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00427.2022) (Vascular Biology and Microcirculation, 2022)
+
 
 
 ## Posters
