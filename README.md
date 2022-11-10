@@ -38,6 +38,9 @@
 
 A new autosomal Myh11-CreERT2 smooth muscle cell lineage tracing and gene knockout mouse model (Arteriosclerosis, Thrombosis, and Vascular Biology, 2022) [manuscript in review]
 
+[Topoisomerase II contributes to DNA secondary structure-mediated double-stranded breaks](https://academic.oup.com/nar/article/48/12/6654/5851738) (Nucleic Acids Research, 2020)
+
+[AT-dinucleotide rich sequences drive fragile site formation] (https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5SLvIw0AAAAJ&citation_for_view=5SLvIw0AAAAJ:9yKSN-GCB0IC) (Nucleic Acids Research, 2019)
 
 ## Posters
 -[Investigating the role of glutamine metabolism in atheroslerotic plaque stability](20211014AS_Poster_CSHL.pdf)
