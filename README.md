@@ -16,6 +16,7 @@
 - [Publications](#publications)
 - [Posters](#posters)
 - [Courses](#courses)
+- [Organizations](#organizations)
 
 ## Contact
 
@@ -55,6 +56,13 @@ A new autosomal Myh11-CreERT2 smooth muscle cell lineage tracing and gene knocko
 - [HSL Research & Data Workshops: Data Visualization in R with ggplot2, regression in R, Data Preparation: taming wild data with R at UVA](https://guides.hsl.virginia.edu/data/workshops)
 - [PhD relevant courses: BIOC 8145: Bioinformatics and Functional Analysis of Genomes, BIOC8380 Practical Biomedical Statistics I and II in R, PHYS 8040: Physiology A and B, PHY8052: Vascular Biology A and B](https://med.virginia.edu/bims/bims-courses/bims-modules/)
 
+## Organizations
+
+- Leducq Foundation
+- American Heart Associations (AHA)
+- Society for Redox Biology and Medicine's (SfRBM) 
+- Women in Medical Sciences at UVA (WIMS)
+- Fulbright Poland 
 
 
 
