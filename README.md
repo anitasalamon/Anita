@@ -36,6 +36,7 @@
 
 [Smooth muscle cell FTO regulates contractile function](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00427.2022) (Vascular Biology and Microcirculation, 2022)
 
+A new autosomal Myh11-CreERT2 smooth muscle cell lineage tracing and gene knockout mouse model (Arteriosclerosis, Thrombosis, and Vascular Biology, 2022) [manuscript in review]
 
 
 ## Posters
