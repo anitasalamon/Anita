@@ -24,6 +24,14 @@
 - **LinkedIn:** [@anita-salamon](https://www.linkedin.com/in/anita-salamon/)
 - **Twitter:** [@Anita_Salamon_](https://twitter.com/Anita_Salamon_)
 
+## Experience 
+
+- **2012-2015:** B.S. Biotechnology, University of Lodz
+- **2015-2019:** MSc. Medical Biotechnology, University of Lodz
+- **2019-2021:** MSc. Biological and Physical Sciences – University of Virginia
+- **2019-2021:** Ph.D. Biochemistry and Molecular Genetics - Universit of Virginia  
+
+
 ## Posters
 -[Investigating the role of glutamine metabolism in atheroslerotic plaque stability](20211014AS_Poster_CSHL.pdf)
 (Cold Spring Harbor meeting: Mechanisms of Metabolic Signaling, 2021)
