@@ -59,7 +59,7 @@ A new autosomal Myh11-CreERT2 smooth muscle cell lineage tracing and gene knocko
 ## Organizations
 
 - Leducq Foundation
-- American Heart Associations (AHA)
+- American Heart Association (AHA)
 - Society for Redox Biology and Medicine's (SfRBM) 
 - Women in Medical Sciences at UVA (WIMS)
 - Fulbright Poland 
