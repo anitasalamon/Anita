@@ -41,12 +41,9 @@ sequencing data, including:
   * sequence alignment (e.g.
     [BWA](http://bio-bwa.sourceforge.net),
     [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml), etc.)
-  * variant calling (e.g. [GATK](https://software.broadinstitute.org/gatk/))
   * post-alignment analysis (e.g.
-    [picard](https://broadinstitute.github.io/picard/),
     [SAMtools](http://samtools.sourceforge.net),
-    [bedtools](https://bedtools.readthedocs.io/en/latest/),
-    [deepTools](https://deeptools.readthedocs.io/en/develop/) etc.)
+    [bedtools](https://bedtools.readthedocs.io/en/latest/), etc.)
 
 ## Publications
 A new autosomal Myh11-CreERT2 smooth muscle cell lineage tracing and gene knockout mouse model (Arteriosclerosis, Thrombosis, and Vascular Biology, 2022) [manuscript in review]
