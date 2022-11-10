@@ -31,6 +31,8 @@
 - **2019-2021:** MSc. Biological and Physical Sciences – University of Virginia
 - **2019-2021:** Ph.D. Biochemistry and Molecular Genetics - Universit of Virginia  
 
+## Publications
+
 
 ## Posters
 -[Investigating the role of glutamine metabolism in atheroslerotic plaque stability](20211014AS_Poster_CSHL.pdf)
