@@ -1,6 +1,6 @@
 ---
-title: Anita's CV
----
+<h1 align="center"> about me :wave:</h1>
+
 
 <p align="center">
 <img src="figure/AS_bio2.png" width="600" />
