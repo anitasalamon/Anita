@@ -35,6 +35,7 @@
 [Multiple cell types contribute to the atherosclerotic lesion fibrous cap by PDGFRβ and bioenergetic mechanisms](https://www.nature.com/articles/s42255-020-00338-8) (Nature Metabolism, 2021)
 
 
+
 ## Posters
 -[Investigating the role of glutamine metabolism in atheroslerotic plaque stability](20211014AS_Poster_CSHL.pdf)
 (Cold Spring Harbor meeting: Mechanisms of Metabolic Signaling, 2021)
