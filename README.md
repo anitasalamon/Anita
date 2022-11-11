@@ -53,6 +53,11 @@
     [Seurat](https://github.com/satijalab/seurat)
     [dplyr](https://cran.r-project.org/web/packages/dplyr/dplyr.pdf)
     [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
+    
+### Collaborations 
+In Owens Lab I have a great opportunity to work on multiple projects, including: 
+[Development of a Transcriptional Regulation Bioinformatics Pipeline to Predict Co-Regulated Genes in Vascular Smooth Muscle Cell Phenotypic Transitions During Atherosclerosis](EB 2022 Poster_MR_03232022.pdf)
+
 
 ## Publications
 A new autosomal Myh11-CreERT2 smooth muscle cell lineage tracing and gene knockout mouse model (Arteriosclerosis, Thrombosis, and Vascular Biology, 2022) [manuscript in review]
