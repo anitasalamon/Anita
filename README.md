@@ -56,7 +56,7 @@
     
 ### Collaborations 
 In Owens Lab I have a great opportunity to work on multiple projects, including: 
-[Development of a Transcriptional Regulation Bioinformatics Pipeline to Predict Co-Regulated Genes in Vascular Smooth Muscle Cell Phenotypic Transitions During Atherosclerosis](EB2022Poster_MR_03232022.pdf)
+- [Development of a Transcriptional Regulation Bioinformatics Pipeline to Predict Co-Regulated Genes in Vascular Smooth Muscle Cell Phenotypic Transitions During Atherosclerosis](EB2022Poster_MR_03232022.pdf)
 
 
 ## Publications
