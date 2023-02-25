@@ -63,7 +63,9 @@ Co-author: [Development of a Transcriptional Regulation Bioinformatics Pipeline 
 - 29th Annual Conference: Society for Redox Biology and Medicine (SfRBM) in 2022
 Co-author: Augmentation of Smooth Muscle Aerobic Glycolysis Rescues Atherosclerosis-associated Mortality in Mice
 - 22nd International Vascular Biology Meeting (IVBM) in 2022
-Co-author: Novel new mouse models to assess the normal and pathological functions of smooth muscle cells and endothelial cells simultaneously in both sexes
+Co-author: [Novel new mouse models to assess the normal and pathological functions of smooth muscle cells and endothelial cells simultaneously in both sexes](Deaton_IVBM2022.pdf)
+
+
 
 
 ## Publications
