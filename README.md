@@ -55,7 +55,7 @@
     [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
     
 ### Collaborations 
-In Owens Lab I have a great opportunity to use my computatyional skills for multile projects, including: 
+In Owens Lab I have a great opportunity to use my computational skills for multile projects, including: 
 - The Vascular Cell Biology Gordon Research Conference in 2023
 Co-author: Global Inhibition of Myeloperoxidase Improves Survival in a Novel Mouse Model of Coronary Atherosclerosis, Spontaneous Myocardial Infarction and Stroke
 - Federation of American Societies for Experimental Biology (FASEB) in 2022
