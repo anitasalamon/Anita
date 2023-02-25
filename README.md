@@ -55,11 +55,11 @@
     [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
     
 ### Collaborations 
-In Owens Lab I have a great opportunity to use my computatyional work for multile projects, including: 
-- Federation of American Societies for Experimental Biology (FASEB) in 2022
-Co-author: [Development of a Transcriptional Regulation Bioinformatics Pipeline to Predict Co-Regulated Genes in Vascular Smooth Muscle Cell Phenotypic Transitions During Atherosclerosis](EB2022Poster_MR_03232022.pdf)
+In Owens Lab I have a great opportunity to use my computatyional skills for multile projects, including: 
 - The Vascular Cell Biology Gordon Research Conference in 2023
 Co-author: Global Inhibition of Myeloperoxidase Improves Survival in a Novel Mouse Model of Coronary Atherosclerosis, Spontaneous Myocardial Infarction and Stroke
+- Federation of American Societies for Experimental Biology (FASEB) in 2022
+Co-author: [Development of a Transcriptional Regulation Bioinformatics Pipeline to Predict Co-Regulated Genes in Vascular Smooth Muscle Cell Phenotypic Transitions During Atherosclerosis](EB2022Poster_MR_03232022.pdf)
 - 29th Annual Conference: Society for Redox Biology and Medicine (SfRBM) in 2022
 Co-author: Augmentation of Smooth Muscle Aerobic Glycolysis Rescues Atherosclerosis-associated Mortality in Mice
 - 22nd International Vascular Biology Meeting (IVBM) in 2022
