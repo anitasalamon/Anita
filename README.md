@@ -55,8 +55,15 @@
     [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
     
 ### Collaborations 
-In Owens Lab I have a great opportunity to work on multiple projects, including: 
-- [Development of a Transcriptional Regulation Bioinformatics Pipeline to Predict Co-Regulated Genes in Vascular Smooth Muscle Cell Phenotypic Transitions During Atherosclerosis](EB2022Poster_MR_03232022.pdf)
+In Owens Lab I have a great opportunity to use my computatyional work for multile projects, including: 
+- Federation of American Societies for Experimental Biology (FASEB)
+Co-author: [Development of a Transcriptional Regulation Bioinformatics Pipeline to Predict Co-Regulated Genes in Vascular Smooth Muscle Cell Phenotypic Transitions During Atherosclerosis](EB2022Poster_MR_03232022.pdf)
+The Vascular Cell Biology Gordon Research Conference
+Co-author: Global Inhibition of Myeloperoxidase Improves Survival in a Novel Mouse Model of Coronary Atherosclerosis, Spontaneous Myocardial Infarction and Stroke
+- 29th Annual Conference: Society for Redox Biology and Medicine (SfRBM)
+Co-author: Augmentation of Smooth Muscle Aerobic Glycolysis Rescues Atherosclerosis-associated Mortality in Mice
+- 22nd International Vascular Biology Meeting (IVBM)
+Co-author: Novel new mouse models to assess the normal and pathological functions of smooth muscle cells and endothelial cells simultaneously in both sexes
 
 
 ## Publications
