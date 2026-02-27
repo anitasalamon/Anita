@@ -1,103 +1,26 @@
----
-<h2 align="center"> about me :wave:</h2>
+# Hi, I'm Anita
 
+Computational biologist with a PhD in Biochemistry & Molecular Genetics from University of Virginia School of Medicine (December 2025). I build pipelines and tools for multi-omics data — single-cell RNA-seq, bulk RNA-seq, and pathway analysis — with a focus on cardiovascular disease, smooth muscle cells and metabolism.
 
-<p align="center">
-<img src="figure/AS_bio2.png" width="600" />
-</p>
-<h3 align="center">Anita is a Biochemistry PhD Candidate. She is fascinated by single-cell genomics and she is using it to study metabolism in cardiovascular diseases. She is currently analyzing single cell and bulk RNA seq datasets with Dr. Gary Owens group in Cardiovascular Research Center at University of Virginia School of Medicine, co-mentored by Stefan Bekiranov and Vlad Serbulea. </h3>
+My PhD work has contributed to publications in *Nature Metabolism* and *Circulation*, with a first-author paper currently under revision in *Nature Metabolism*.
 
+## What you'll find here
 
-### Contents
+- **[Super-Pathway Analysis](https://github.com/anitasalamon/super-pathway-analysis)** — A novel tool for pathway-level analysis across omics datasets
+- **[Single-Cell RNA-seq Pipeline](https://github.com/anitasalamon/single-cell-RNA-seq)** — End-to-end scRNA-seq analysis workflow using Seurat
+- **[Bulk RNA-seq Pipeline](https://github.com/anitasalamon/bulkRNA-seq)** — Differential expression analysis pipeline using DESeq2
+- **[WTA Tennis Analysis](https://github.com/anitasalamon/tennis_wta)** — Statistical analysis of WTA career trajectories *(in progress)*
 
-- [Contact](#contact)
-- [Education](#education)
-- [Experience](#experience)
-- [Publications](#publications)
-- [Posters](#posters)
-- [Courses](#courses)
-- [Organizations](#organizations)
+## Tools I work with
 
-## Contact
+`R` `Python` `Seurat` `DESeq2` `CellRanger` `STAR` `ggplot2` `Shiny` `Snakemake`
 
-- **Email:** as3gd@virginia.edu
-- **Email:** anitsalamon@gmail.com
-- **LinkedIn:** [@anita-salamon](https://www.linkedin.com/in/anita-salamon/)
-- **Twitter:** [@Anita_Salamon_](https://twitter.com/Anita_Salamon_)
+## Get in touch
 
-## Education
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anita--salamon-blue)](https://www.linkedin.com/in/anita-salamon)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Anita%20Salamon-lightgrey)](https://scholar.google.com/citations?user=5SLvIw0AAAAJ&hl=en)
+[![Email](https://img.shields.io/badge/Email-anitsalamon%40gmail.com-red)](mailto:anitsalamon@gmail.com)
 
-- **2012-2015:** B.S. Biotechnology, University of Lodz
-- **2015-2019:** MSc. Medical Biotechnology, University of Lodz
-- **2019-2021:** MSc. Biological and Physical Sciences – University of Virginia
-- **2019-2021:** Ph.D. Biochemistry and Molecular Genetics - Universit of Virginia  
-
-## Experience 
-### Bioinformatics / statistics
-- Deep experience with software tools for next-generation high-throughput sequencing data, including:
-  * preprocessing 
-    [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
-    [MultiQC](https://multiqc.info/docs/)
-    [Cutadapt](https://cutadapt.readthedocs.io/en/stable/guide.html)
-    [Trimmomatic](http://www.usadellab.org/cms/uploads/supplementary/Trimmomatic/TrimmomaticManual_V0.32.pdf)
-  * sequence alignment (e.g.
-    [STAR](https://physiology.med.cornell.edu/faculty/skrabanek/lab/angsd/lecture_notes/STARmanual.pdf),
-    [CellRanger](https://support.10xgenomics.com/single-cell-gene-expression/software/pipelines/latest/what-is-cell-ranger)
-    [Bowtie2](http://bowtie-bio.sourceforge.net/bowtie2/index.shtml), etc.)
-  * post-alignment analysis (e.g.
-    [featureCounts](https://subread.sourceforge.net/SubreadUsersGuide.pdf)
-    [SAMtools](http://samtools.sourceforge.net),
-    [bedtools](https://bedtools.readthedocs.io/en/latest/), etc.)
--	Deep experience in programming with R for bioinformatics and statistics , including: 
-    [DESeq2](https://bioconductor.org/packages/devel/bioc/vignettes/DESeq2/inst/doc/DESeq2.html)
-    [Seurat](https://github.com/satijalab/seurat)
-    [dplyr](https://cran.r-project.org/web/packages/dplyr/dplyr.pdf)
-    [ggplot2](https://cran.r-project.org/web/packages/ggplot2/ggplot2.pdf)
-    
-### Collaborations 
-In Owens Lab I have a great opportunity to use my computational skills for multile projects, including: 
-- The Vascular Cell Biology Gordon Research Conference in 2023
-Co-author: Global Inhibition of Myeloperoxidase Improves Survival in a Novel Mouse Model of Coronary Atherosclerosis, Spontaneous Myocardial Infarction and Stroke
-- Federation of American Societies for Experimental Biology (FASEB) in 2022
-Co-author: [Development of a Transcriptional Regulation Bioinformatics Pipeline to Predict Co-Regulated Genes in Vascular Smooth Muscle Cell Phenotypic Transitions During Atherosclerosis](EB2022Poster_MR_03232022.pdf)
-- 29th Annual Conference: Society for Redox Biology and Medicine (SfRBM) in 2022
-Co-author: Augmentation of Smooth Muscle Aerobic Glycolysis Rescues Atherosclerosis-associated Mortality in Mice
-- 22nd International Vascular Biology Meeting (IVBM) in 2022
-Co-author: [Novel new mouse models to assess the normal and pathological functions of smooth muscle cells and endothelial cells simultaneously in both sexes](Deaton_IVBM2022.pdf)
-
-
-
-
-## Publications
-[A new autosomal Myh11-CreERT2 smooth muscle cell lineage tracing and gene knockout mouse mode](https://www.ahajournals.org/doi/10.1161/ATVBAHA.122.318160) (Arteriosclerosis, Thrombosis, and Vascular Biology, 2022)
-
-[Smooth muscle cell FTO regulates contractile function](https://journals.physiology.org/doi/abs/10.1152/ajpheart.00427.2022) (Vascular Biology and Microcirculation, 2022)
-
-[Multiple cell types contribute to the atherosclerotic lesion fibrous cap by PDGFRβ and bioenergetic mechanisms](https://www.nature.com/articles/s42255-020-00338-8) (Nature Metabolism, 2021)
-
-[Topoisomerase II contributes to DNA secondary structure-mediated double-stranded breaks](https://academic.oup.com/nar/article/48/12/6654/5851738) (Nucleic Acids Research, 2020)
-
-[AT-dinucleotide rich sequences drive fragile site formation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=5SLvIw0AAAAJ&citation_for_view=5SLvIw0AAAAJ:9yKSN-GCB0IC) (Nucleic Acids Research, 2019)
-
-## Posters
--[Investigating the role of glutamine metabolism in atheroslerotic plaque stability](20211014AS_Poster_CSHL.pdf)
-(Cold Spring Harbor meeting: Mechanisms of Metabolic Signaling, 2021)
-
--[Glutamine metabolism is required for phenotypic modulation of smooth muscle to a myofibroblast-like extracellular matrix-producing state](20201105AS_Poster_SFRBM.pdf) (Society for Redox Biology and Medicine, 2020)
-
-## Courses
-- [Three-days workshop on single cell RNA-seq analysis in CLI and R, hosted by Bioinformatics Core at UC Davis (2022)](https://github.com/ucdavis-bioinformatics-training/2022-March-Single-Cell-RNA-Seq-Analysis)
-- [Advanced Topics in Single Cell RNA Seq VDJ, hosted by Bioinformatics Core at UC Davis (2022)](https://github.com/ucdavis-bioinformatics-training/2022-March-Advanced-Topics-in-Single-Cell-RNA-Seq-VDJ)
-- [Two-days’ workshop on RNAseq analysis in CLI and R hosted by Bioinformatics Core at UVA](https://github.com/pk7zuva/rnaseq-workshop)
-- [HSL Research & Data Workshops: Data Visualization in R with ggplot2, regression in R, Data Preparation: taming wild data with R at UVA](https://guides.hsl.virginia.edu/data/workshops)
-- [PhD relevant courses: BIOC 8145: Bioinformatics and Functional Analysis of Genomes, BIOC8380 Practical Biomedical Statistics I and II in R, PHYS 8040: Physiology A and B, PHY8052: Vascular Biology A and B](https://med.virginia.edu/bims/bims-courses/bims-modules/)
-
-## Organizations
-- Leducq Foundation
-- American Heart Association (AHA)
-- Society for Redox Biology and Medicine's (SfRBM) 
-- Women in Medical Sciences at UVA (WIMS)
-- Fulbright Poland 
 
 
 
